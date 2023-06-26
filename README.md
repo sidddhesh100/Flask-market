@@ -29,3 +29,6 @@ This monolithic application is built using Python and the Flask web framework fo
 
 # Contributing
 Contributions to the project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+The Amazon Clone project is licensed under the [MIT License](LICENSE). You are free to modify, distribute, and use the code for personal and commercial purposes.
